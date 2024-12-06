@@ -1,4 +1,4 @@
-# Gestor para Loja de Disco - Avenida do Rock 🎸
+# Gestor para Loja de Discos - Avenida do Rock 🎸
 
 é um sistema desenvolvido em **Node.js** para gerenciar a loja de discos. A aplicação foi desenvolvida na cadeira de Lógica de Programação do curso de Análise e Desenvolvimento de Sistemas.
 Ele permite que o administrador realize a organização do catálogo de discos, utilizando um arquivo **.txt** para salvar e carregar o catálogo.
