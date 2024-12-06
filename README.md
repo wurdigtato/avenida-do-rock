@@ -33,5 +33,3 @@ Criar uma aplicação eficiente e funcional para atender as necessidades de uma 
 3. Rode o programa
    ```
    node app
-
-   
