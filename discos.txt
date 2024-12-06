@@ -1,0 +1,41 @@
+The Beatles;Abbey Road;Rock;1969;30.5
+Michael Jackson;Thriller;Pop;1982;45
+Pink Floyd;The Dark Side of the Moon;Rock Progressivo;1973;40
+Bob Dylan;Highway 61 Revisited;Folk Rock;1965;25
+Daft Punk;Random Access Memories;Eletrônica;2013;50
+Billie Eilish;When We All Fall Asleep, Where Do We Go?;Pop;2019;35
+Miles Davis;Kind of Blue;Blues;1959;60
+Nirvana;Nevermind;Grunge;1991;30
+Queen;A Night at the Opera;Rock;1975;38
+Madonna;Like a Prayer;Pop;1989;28
+Kendrick Lamar;To Pimp a Butterfly;Hip-Hop;2015;40
+The Rolling Stones;Let It Bleed;Rock;1969;32
+Led Zeppelin;IV;Hard Rock;1971;50
+Radiohead;OK Computer;Alternativo;1997;40
+Amy Winehouse;Back to Black;Soul;2006;30
+The Weeknd;After Hours;R&B;2020;38
+Frank Sinatra;In the Wee Small Hours;Jazz;1955;45
+The Clash;London Calling;Punk Rock;1979;35
+Arcade Fire;Funeral;Indie Rock;2004;35
+Jay-Z;The Blueprint;Hip-Hop;2001;38
+Taylor Swift;1989;Pop;2014;42
+Black Sabbath;Paranoid;Heavy Metal;1970;45
+Bruce Springsteen;Born to Run;Rock;1975;50
+The Cure;Disintegration;Rock Alternativo;1989;35
+Elton John;Goodbye Yellow Brick Road;Pop Rock;1973;45
+Coldplay;A Rush of Blood to the Head;Alternativo;2002;32
+The Doors;L.A. Woman;Rock Psicodélico;1971;38
+The Smiths;The Queen Is Dead;Indie Rock;1986;35
+Queen;Innuendo;Rock;1991;40
+The Velvet Underground;The Velvet Underground & Nico;Rock Experimental;1967;45
+Kanye West;My Beautiful Dark Twisted Fantasy;Hip-Hop;2010;50
+Frank Ocean;Channel Orange;R&B;2012;42
+Metallica;Metallica (Black Album);Heavy Metal;1991;40
+Prince;Purple Rain;Pop/Rock;1984;48
+The Police;Synchronicity;Rock;1983;38
+Daft Punk;Discovery;Eletrônica;2001;45
+The Strokes;Is This It;Indie Rock;2001;38
+John Coltrane;A Love Supreme;Jazz;1965;55
+Linkin Park;Hibrid Theory;Rock;2000;115.8
+Linkin Park;Meteora;Rock;2003;116.58
+Linkin Park;From Zero;Rock;2024;300
